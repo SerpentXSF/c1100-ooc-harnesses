@@ -1,0 +1,2 @@
+# Authored on Windows, executed under WSL/Linux. CRLF would break the scripts.
+* text=auto eol=lf
